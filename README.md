@@ -1,5 +1,5 @@
 # PC Black Box
-![PC Black Box V7](PC_Black_Box_V7.png.png)
+![PC Black Box V7.1 and ESP32 Simulator](dual_black_box_monitoring_dashboard.png)
 ## Download
 [⬇️ Download PC Black Box V7.1](https://github.com/i54N7/PC-Black-Box/releases/download/v7.1.0/PC_Black_Box_V7.1.zip)
 
