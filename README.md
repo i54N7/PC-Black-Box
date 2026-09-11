@@ -1,8 +1,8 @@
 # PC Black Box
 ![PC Black Box V7](PC_Black_Box_V7.png.png)
 ## Download
+[⬇️ Download PC Black Box V7.1](https://github.com/i54N7/PC-Black-Box/releases/download/v7.1.0/PC_Black_Box_V7.1.zip)
 
-[⬇️ Download PC Black Box V7.0](https://github.com/i54N7/PC-Black-Box/releases/download/v7.0.0/PC_Black_Box.zip)
 **PC Black Box** is a Windows monitoring application designed to act like a black box for a computer.
 ## How to Run
 
@@ -175,10 +175,10 @@ Python does not need to be installed on the user's computer when running the pac
 
 ## Project Author
 
-**The project was designed and programmed by MOAYAD Alharbi**
+**The project was designed and programmed by Moayad Alharbi**
 
 Social Media: **IG @54N7**
 
 ## Version
 
-Current application version: **PC Black Box V7.0**
+Current application version: **PC Black Box V7.1**
