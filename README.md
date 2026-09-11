@@ -4,6 +4,15 @@
 
 [⬇️ Download PC Black Box V7.0](https://github.com/i54N7/PC-Black-Box/releases/download/v7.0.0/PC_Black_Box.zip)
 **PC Black Box** is a Windows monitoring application designed to act like a black box for a computer.
+## How to Run
+
+1. Download `PC_Black_Box.zip` from the release page.
+2. Extract the ZIP file.
+3. Keep all files inside the extracted folder together.
+4. Open `PC_Black_Box.exe`.
+5. The application will start and the Hardware Bridge will run in the background.
+
+> Important: Do not move `PC_Black_Box.exe` away from the `HardwareBridgeRuntime` folder, because the application needs it to read hardware sensor data.
 
 The project monitors important system information in real time, including CPU usage, CPU temperature, RAM usage, storage usage, GPU usage, uptime, and network activity.
 
