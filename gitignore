@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller
+build/
+dist/
+build_*/
+dist_*/
+spec_*/
+*.spec
+
+# Runtime/local data
+hardware_sensors.json
+pc_black_box_live_log.csv
+pc_black_box_settings.json
+
+# Logs
+*.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Temporary
+*.tmp
