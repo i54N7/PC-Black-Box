@@ -1,5 +1,5 @@
 # PC Black Box
-
+![PC Black Box V7](PC_Black_Box_V7.png.png)
 **PC Black Box** is a Windows monitoring application designed to act like a black box for a computer.
 
 The project monitors important system information in real time, including CPU usage, CPU temperature, RAM usage, storage usage, GPU usage, uptime, and network activity.
